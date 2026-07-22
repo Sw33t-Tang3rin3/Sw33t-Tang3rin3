@@ -1,3 +1,17 @@
-<h1 align="center">❝ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Italianno&size=45&pause=1000&color=0A5A3F&center=true&vCenter=true&width=435&lines=What+a+relief...;To+finally+tell+you+this...;My+one+and+only...;Precious..." alt="Typing SVG" /></a> ❞</h1>
+<div align="center">
 
-![.](https://i.imgur.com/YmBts1H.png)
+![.](https://i.imgur.com/RVI2UPL.gif)
+
+<table>
+  <tr>
+    <th>
+      $\color{#ffa768}{\textsf{=ㅤA B O U TㅤㅤM Eㅤ=}}$ <br>
+      $\color{#fd8d6f}{\textsf{J A C Kㅤ/ㅤT E D D Y}}$ <br>
+      $\color{#ffa768}{\textsf{H Eㅤ/ㅤS H Eㅤ/ㅤT H E Y}}$ <br>
+      $\color{#fd8d6f}{\textsf{T R A N SㅤㅤF T MㅤㅤB I}}$ <br>
+
+</th>
+</tr>
+</table>
+
+</div>
